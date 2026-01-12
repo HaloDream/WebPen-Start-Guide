@@ -1,6 +1,14 @@
 # WebPen-Start-Guide
 A beginner-friendly guide to web penetration testing, covering core concepts, common vulnerability exploitation workflows, and hands-on practice steps. Designed for entry-level learners to build a solid foundation in web security and ethical hacking. No prior experience required—start your penetration testing journey here!
 
+一份友好的 Web 渗透测试入门指南，涵盖核心概念、常见漏洞利用流程及实操步骤。专为入门学习者设计，助力夯实 Web 安全与伦理黑客基础。无需任何前置经验 —— 从此开启你的渗透测试学习之旅！
+
+
+
+
+
+
+
 # 开源协议声明
 
 本仓库「WebPen-Start-Guide」所有文档、教程内容均基于 **MIT License** 开源授权。
